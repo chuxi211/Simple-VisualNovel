@@ -1,0 +1,44 @@
+{
+    "Chapter": "2",
+    "Title": "测试章节",
+    "storyNodes": [
+        {
+            "Type": "Dialogue",
+            "HasCharacter": false,
+            "Node": {
+                "ID": "X2C1",
+                "NextID": "X2C2",
+                "LastID": "",
+                "Character": {
+                    "name": "",
+                    "id": "Narration",
+                    "state": "Idle",
+                    "position": "Unknown"
+                },
+                "Text": "这是一个测试节点",
+                "Bgm": "",
+                "Se": "",
+                "Background": ""
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": false,
+            "Node": {
+                "ID": "X2C2",
+                "NextID": "",
+                "LastID": "X2C1",
+                "Character": {
+                    "name": "",
+                    "id": "Narration",
+                    "state": "Idle",
+                    "position": "Unknown"
+                },
+                "Text": "zheshiyige",
+                "Bgm": "",
+                "Se": "",
+                "Background": ""
+            }
+        }
+    ]
+}

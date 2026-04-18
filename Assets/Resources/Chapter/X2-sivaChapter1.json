@@ -1,0 +1,634 @@
+{
+    "Chapter": "1",
+    "Title": "群星跃迁之时·序",
+    "storyNodes": [
+        {
+            "Type": "Dialogue",
+            "HasCharacter": false,
+            "Node": {
+                "ID": "X1C1",
+                "NextID": "X1C2",
+                "LastID": "",
+                "Character": {
+                    "name": "",
+                    "id": "玉初曦",
+                    "state": "Idle",
+                    "position": "Unknown"
+                },
+                "Text": "刚才···我好像···",
+                "Bgm": "",
+                "Se": "",
+                "Background": "FoolShip_1"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": false,
+            "Node": {
+                "ID": "X1C2",
+                "NextID": "X1C3",
+                "LastID": "X1C1",
+                "Character": {
+                    "name": "",
+                    "id": "玉初曦",
+                    "state": "Idle",
+                    "position": "Unknown"
+                },
+                "Text": "我好像被砍了一刀······？",
+                "Bgm": "",
+                "Se": "",
+                "Background": "FoolShip_2"
+            }
+        },
+        {
+            "Type": "Tip",
+            "HasCharacter": false,
+            "Node": {
+                "ID": "X1C3",
+                "NextID": "X1C4",
+                "LastID": "X1C2",
+                "Text": "观测到不稳定的灵魂态",
+                "Bgm": "",
+                "Se": "",
+                "Background": "FoolShip"
+            }
+        },
+        {
+            "Type": "Tip",
+            "HasCharacter": false,
+            "Node": {
+                "ID": "X1C4",
+                "NextID": "X1C5",
+                "LastID": "X1C3",
+                "Text": "蚀之世  零年",
+                "Bgm": "",
+                "Se": "",
+                "Background": "FoolShip"
+            }
+        },
+        {
+            "Type": "Tip",
+            "HasCharacter": false,
+            "Node": {
+                "ID": "X1C5",
+                "NextID": "X1C6",
+                "LastID": "X1C4",
+                "Text": "解构月球之战 前篇 愚人船",
+                "Bgm": "",
+                "Se": "",
+                "Background": "FoolShip"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": false,
+            "Node": {
+                "ID": "X1C6",
+                "NextID": "X1C7",
+                "LastID": "X1C5",
+                "Character": {
+                    "name": "我",
+                    "id": "玉初曦",
+                    "state": "Idle",
+                    "position": "Unknown"
+                },
+                "Text": "我是谁？我在哪里？怎么回事？",
+                "Bgm": "",
+                "Se": "",
+                "Background": "FoolShip"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C7",
+                "NextID": "X1C8",
+                "LastID": "X1C6",
+                "Character": {
+                    "name": "伊南娜",
+                    "id": "伊南娜",
+                    "state": "Idle",
+                    "position": "Right"
+                },
+                "Text": "你在说什么？余怎么听不懂？",
+                "Bgm": "",
+                "Se": "",
+                "Background": "FoolShip"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C8",
+                "NextID": "X1C9",
+                "LastID": "X1C7",
+                "Character": {
+                    "name": "我",
+                    "id": "玉初曦",
+                    "state": "Idle",
+                    "position": "Unknown"
+                },
+                "Text": "······有人在我脑海里说话吗？！",
+                "Bgm": "",
+                "Se": "",
+                "Background": "FoolShip"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C9",
+                "NextID": "X1C10",
+                "LastID": "X1C8",
+                "Character": {
+                    "name": "伊南娜",
+                    "id": "伊南娜",
+                    "state": "Idle",
+                    "position": "Right"
+                },
+                "Text": "余一直在这里！“灵魂的链接术”很久没有收到你的反馈了，先活动一下吧！",
+                "Bgm": "",
+                "Se": "",
+                "Background": "FoolShip"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C10",
+                "NextID": "X1C11",
+                "LastID": "X1C9",
+                "Character": {
+                    "name": "我",
+                    "id": "贝黑莫斯",
+                    "state": "Idle",
+                    "position": "Left"
+                },
+                "Text": "等等，这不是砍了我一刀的小魔女吗？！怎么跟她在一起······我自己的身体呢？？",
+                "Bgm": "",
+                "Se": "",
+                "Background": "FoolShip"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C11",
+                "NextID": "X1C12",
+                "LastID": "X1C10",
+                "Character": {
+                    "name": "伊南娜",
+                    "id": "伊南娜",
+                    "state": "Idle",
+                    "position": "Middle"
+                },
+                "Text": "怎么回事，贝黑莫斯的状态怎么变成这样了？",
+                "Bgm": "",
+                "Se": "",
+                "Background": "FoolShip"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C12",
+                "NextID": "X1C13",
+                "LastID": "X1C11",
+                "Character": {
+                    "name": "我",
+                    "id": "玉初曦",
+                    "state": "Idle",
+                    "position": "Unknown"
+                },
+                "Text": "贝黑莫斯？这是她的名字？",
+                "Bgm": "",
+                "Se": "",
+                "Background": "FoolShip"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C13",
+                "NextID": "X1C14",
+                "LastID": "X1C12",
+                "Character": {
+                    "name": "伊南娜",
+                    "id": "伊南娜",
+                    "state": "Idle",
+                    "position": "Right"
+                },
+                "Text": "你怎么了？",
+                "Bgm": "",
+                "Se": "",
+                "Background": "FoolShip"
+            }
+        },
+        {
+            "Type": "Tip",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C14",
+                "NextID": "X1C15",
+                "LastID": "X1C13",
+                "Text": "警告！异常因果增量，快速接近中",
+                "Bgm": "",
+                "Se": "",
+                "Background": "FoolShip"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C15",
+                "NextID": "X1C16",
+                "LastID": "X1C14",
+                "Character": {
+                    "name": "我",
+                    "id": "玉初曦",
+                    "state": "Idle",
+                    "position": "Unknown"
+                },
+                "Text": "喂！！不要在我脑内播放奇怪的声音！",
+                "Bgm": "",
+                "Se": "",
+                "Background": "FoolShip"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C16",
+                "NextID": "X1C17",
+                "LastID": "X1C15",
+                "Character": {
+                    "name": "伊南娜",
+                    "id": "伊南娜",
+                    "state": "Idle",
+                    "position": "Right"
+                },
+                "Text": "敌人出现了！虽然不知道你怎么了······但是，先打败他们吧！这些低劣的东西，从来不是你的对手！",
+                "Bgm": "",
+                "Se": "",
+                "Background": "FoolShip"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C17",
+                "NextID": "X1C18",
+                "LastID": "X1C16",
+                "Character": {
+                    "name": "我",
+                    "id": "玉初曦",
+                    "state": "Idle",
+                    "position": "Unknown"
+                },
+                "Text": "你也很奇怪啊！不要在脑内和我对话！",
+                "Bgm": "",
+                "Se": "",
+                "Background": "FoolShip"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C18",
+                "NextID": "X1C19",
+                "LastID": "X1C17",
+                "Character": {
+                    "name": "伊南娜",
+                    "id": "伊南娜",
+                    "state": "Idle",
+                    "position": "Right"
+                },
+                "Text": "这疯狂之船竟敢让你的意识混乱！哼，余才不会让着卑劣之地得逞！",
+                "Bgm": "",
+                "Se": "",
+                "Background": "FoolShip"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C19",
+                "NextID": "X1C20",
+                "LastID": "X1C18",
+                "Character": {
+                    "name": "我",
+                    "id": "玉初曦",
+                    "state": "Idle",
+                    "position": "Unknown"
+                },
+                "Text": "异常因果生成物就是这些怪物吗？这到底是哪里？还有，我为什么会跟这个小魔女在一起？",
+                "Bgm": "",
+                "Se": "",
+                "Background": "FoolShip"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C20",
+                "NextID": "X1C21",
+                "LastID": "X1C19",
+                "Character": {
+                    "name": "伊南娜",
+                    "id": "伊南娜",
+                    "state": "Idle",
+                    "position": "Right"
+                },
+                "Text": "这里是愚人船，大家进入这里后迷路了。余上传了一个目前的坐标，星图会在迷宫里给出前进的指示。",
+                "Bgm": "",
+                "Se": "",
+                "Background": "FoolShip"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C21",
+                "NextID": "X1C22",
+                "LastID": "X1C20",
+                "Character": {
+                    "name": "伊南娜",
+                    "id": "伊南娜",
+                    "state": "Idle",
+                    "position": "Right"
+                },
+                "Text": "一路上的因果异常体都请清除一下吧！你的问题，见面后再解答",
+                "Bgm": "",
+                "Se": "",
+                "Background": "FoolShip"
+            }
+        },
+        {
+            "Type": "Tip",
+            "HasCharacter": false,
+            "Node": {
+                "ID": "X1C22",
+                "NextID": "X1C23",
+                "LastID": "X1C21",
+                "Text": "警告：发现时空刻度异常，场域校准错误",
+                "Bgm": "",
+                "Se": "",
+                "Background": "FoolShip"
+            }
+        },
+        {
+            "Type": "Tip",
+            "HasCharacter": false,
+            "Node": {
+                "ID": "X1C23",
+                "NextID": "X1C24",
+                "LastID": "X1C22",
+                "Text": "正在读取迷宫坐标",
+                "Bgm": "",
+                "Se": "",
+                "Background": "FoolShip"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": false,
+            "Node": {
+                "ID": "X1C24",
+                "NextID": "X1C25",
+                "LastID": "X1C23",
+                "Character": {
+                    "name": "",
+                    "id": "玉初曦",
+                    "state": "Idle",
+                    "position": "Unknown"
+                },
+                "Text": "仿佛被拉进传送阵，我忽然来到一个新的房间，周围的景物完全变成了另一股模样。这里的血月隐匿，四周封闭阴暗，连烦嚣的声音也尽数消失。",
+                "Bgm": "",
+                "Se": "",
+                "Background": "Demo_1"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C25",
+                "NextID": "X1C26",
+                "LastID": "X1C24",
+                "Character": {
+                    "name": "？？？",
+                    "id": "浮士德",
+                    "state": "Unknown",
+                    "position": "Middle"
+                },
+                "Text": "贝黑莫斯？哼······",
+                "Bgm": "",
+                "Se": "",
+                "Background": "Demo_1"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C26",
+                "NextID": "X1C27",
+                "LastID": "X1C25",
+                "Character": {
+                    "name": "我",
+                    "id": "玉初曦",
+                    "state": "Idle",
+                    "position": "Unknown"
+                },
+                "Text": "视野中出现一个人影，隐匿在阴影之中，携着愈来愈强的杀意一步步走过来。这是什么新的危机吗？我心下戒备，准备迎战。",
+                "Bgm": "",
+                "Se": "",
+                "Background": "Demo_1"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C27",
+                "NextID": "X1C28",
+                "LastID": "X1C26",
+                "Character": {
+                    "name": "？？？",
+                    "id": "浮士德",
+                    "state": "Idle",
+                    "position": "Middle"
+                },
+                "Text": "玉初曦？！是你！",
+                "Bgm": "",
+                "Se": "",
+                "Background": "Demo_1"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C28",
+                "NextID": "X1C29",
+                "LastID": "X1C27",
+                "Character": {
+                    "name": "我",
+                    "id": "玉初曦",
+                    "state": "Idle",
+                    "position": "Unknown"
+                },
+                "Text": "那股极具威胁的杀意突然散尽了。他似乎对见到我很惊讶，但我显然从未见过他。",
+                "Bgm": "",
+                "Se": "",
+                "Background": "Demo_1"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C29",
+                "NextID": "X1C30",
+                "LastID": "X1C28",
+                "Character": {
+                    "name": "？？？",
+                    "id": "浮士德",
+                    "state": "Idle",
+                    "position": "Middle"
+                },
+                "Text": "你怎么——",
+                "Bgm": "",
+                "Se": "",
+                "Background": "Demo_1"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C30",
+                "NextID": "X1C31",
+                "LastID": "X1C29",
+                "Character": {
+                    "name": "？？？",
+                    "id": "浮士德",
+                    "state": "Idle",
+                    "position": "Middle"
+                },
+                "Text": "不，你不是原本在这里的玉初曦。不过······这样更好。",
+                "Bgm": "",
+                "Se": "",
+                "Background": "Demo_1"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C31",
+                "NextID": "X1C32",
+                "LastID": "X1C30",
+                "Character": {
+                    "name": "我",
+                    "id": "玉初曦",
+                    "state": "Idle",
+                    "position": "Unknown"
+                },
+                "Text": "······",
+                "Bgm": "",
+                "Se": "",
+                "Background": "Demo_1"
+            }
+        },
+        {
+            "Type": "Choice",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C32",
+                "LastID": "X1C31",
+                "Choices": [
+                    {
+                        "Text": "你是来挡路的还是来帮忙的？",
+                        "NextID": "X1C39"
+                    },
+                    {
+                        "Text": "你怎么认识我？",
+                        "NextID": "X1C40"
+                    }
+                ]
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C40",
+                "NextID": "X1C41",
+                "LastID": "X1C32",
+                "Character": {
+                    "name": "？？？",
+                    "id": "浮士德",
+                    "state": "Idle",
+                    "position": "Middle"
+                },
+                "Text": "我当然认识你，我是来带走你的。",
+                "Bgm": "",
+                "Se": "",
+                "Background": "Demo_1"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C39",
+                "NextID": "X1C41",
+                "LastID": "X1C32",
+                "Character": {
+                    "name": "？？？",
+                    "id": "浮士德",
+                    "state": "Idle",
+                    "position": "Middle"
+                },
+                "Text": "我是来带你走的。",
+                "Bgm": "",
+                "Se": "",
+                "Background": "Demo_1"
+            }
+        },
+        {
+            "Type": "Dialogue",
+            "HasCharacter": true,
+            "Node": {
+                "ID": "X1C41",
+                "NextID": "X1C42",
+                "LastID": "X1C40",
+                "Character": {
+                    "name": "？？？",
+                    "id": "浮士德",
+                    "state": "Idle",
+                    "position": "Middle"
+                },
+                "Text": "你控制的那个贝黑莫斯是个恶魔，会对你不利。她现在没有行动能力，为什么不杀了她？",
+                "Bgm": "",
+                "Se": "",
+                "Background": "Demo_1"
+            }
+        }
+    ]
+}
