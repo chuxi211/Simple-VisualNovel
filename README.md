@@ -76,7 +76,7 @@ Assets
 
 ### 运行方式
 1. 使用 Unity Hub 打开项目  
-2. 打开主场景（如 MainScene）  
+2. 打开Bootstrap场景
 3. 点击 Play 运行  
 
 ---
@@ -165,7 +165,7 @@ Assets
 
 ### How to Run
 1. Open the project with Unity Hub  
-2. Open the main scene (e.g. MainScene)  
+2. Open the Bootstrap scene 
 3. Press Play  
 
 ---
