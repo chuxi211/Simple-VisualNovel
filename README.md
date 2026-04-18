@@ -27,6 +27,7 @@
 ---
 
 ### 项目结构
+```
 Assets
 ├── Plugins
 ├── Resources
@@ -48,7 +49,7 @@ Assets
 │ ├── Story # 播放器 / 加载器
 │ └── UI # UI 系统
 ├── Template # CSV / JSON 模板
-
+```
 ---
 
 ### 核心结构说明
@@ -115,6 +116,7 @@ This is a visual novel framework based on Unity.
 ---
 
 ### Project Structure
+```
 Assets
 ├── Plugins
 ├── Resources
@@ -136,7 +138,7 @@ Assets
 │ ├── Story
 │ └── UI
 ├── Template
-
+```
 ---
 
 ### Core Architecture
